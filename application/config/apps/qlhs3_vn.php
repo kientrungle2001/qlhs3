@@ -29,6 +29,7 @@ $config['packages'][] =
 			[
 				'name' => 'default',
 				'css_libraries' => [
+                /*
 					[
 						'name' => 'bootstrap',
 						'version' => '4.3.1',
@@ -40,6 +41,7 @@ $config['packages'][] =
 						'version' => '4.7.0',
 						'file' => 'css/font-awesome.min.css'
 					],
+                    */
                     [
                         'name' => 'AdminLTE',
                         'version' => '3.2.0',
@@ -56,6 +58,7 @@ $config['packages'][] =
                     ]
 				],
 				'js_libraries' => [
+                /*
 					[
 						'name' => 'jquery',
 						'version' => '3.3.1',
@@ -66,6 +69,7 @@ $config['packages'][] =
 						'version' => '4.3.1',
 						'file' => 'dist/js/bootstrap.min.js'
 					],
+                    */
 					[
 						'name' => 'angularjs',
 						'version' => '1.7.8',
@@ -88,7 +92,9 @@ $config['packages'][] =
                             'plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js',
                             'plugins/summernote/summernote-bs4.min.js',
                             'plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js',
-                            'dist/js/adminlte.js'
+                            'dist/js/adminlte.js',
+                            'dist/js/demo.js',
+                            'dist/js/pages/dashboard.js'
                         ]
 					]
 				]
