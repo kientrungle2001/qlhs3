@@ -95,4 +95,88 @@
       Giáo viên
     </p></a>
   </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#"><i class="fas fa-copy nav-icon"></i>
+    <p>
+      Quản lý kho <i class="fas fa-angle-left right"></i> <span class="badge badge-info right">2</span>
+    </p></a>
+    <ul class="nav nav-treeview">
+      <li class="nav-item">
+        <a class="nav-link" href="pages/layout/top-nav-sidebar.html"><i class="far fa-circle nav-icon"></i>
+        <p>
+          Hàng hóa
+        </p></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="pages/layout/boxed.html"><i class="far fa-circle nav-icon"></i>
+        <p>
+          Nhập kho
+        </p></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="pages/layout/boxed.html"><i class="far fa-circle nav-icon"></i>
+        <p>
+          Xuất kho
+        </p></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="pages/layout/boxed.html"><i class="far fa-circle nav-icon"></i>
+        <p>
+          Báo cáo
+        </p></a>
+      </li>
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#"><i class="fas fa-copy nav-icon"></i>
+    <p>
+      Công việc <i class="fas fa-angle-left right"></i> <span class="badge badge-info right">2</span>
+    </p></a>
+    <ul class="nav nav-treeview">
+      <li class="nav-item">
+        <a class="nav-link" href="pages/layout/top-nav-sidebar.html"><i class="far fa-circle nav-icon"></i>
+        <p>
+          Công việc chung
+        </p></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="pages/layout/boxed.html"><i class="far fa-circle nav-icon"></i>
+        <p>
+          Công việc chuyên môn
+        </p></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="pages/layout/boxed.html"><i class="far fa-circle nav-icon"></i>
+        <p>
+          Báo cáo công việc
+        </p></a>
+      </li>
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#"><i class="fas fa-copy nav-icon"></i>
+    <p>
+      Đổi sao lấy quà <i class="fas fa-angle-left right"></i> <span class="badge badge-info right">2</span>
+    </p></a>
+    <ul class="nav nav-treeview">
+      <li class="nav-item">
+        <a class="nav-link" href="pages/layout/top-nav-sidebar.html"><i class="far fa-circle nav-icon"></i>
+        <p>
+          Đổi quà
+        </p></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="pages/layout/boxed.html"><i class="far fa-circle nav-icon"></i>
+        <p>
+          Lịch sử
+        </p></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="pages/layout/boxed.html"><i class="far fa-circle nav-icon"></i>
+        <p>
+          Quản lý quà
+        </p></a>
+      </li>
+    </ul>
+  </li>
 </ul>
